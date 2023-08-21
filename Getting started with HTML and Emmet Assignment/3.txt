@@ -1,0 +1,41 @@
+# Write a short note on tags, elements, and attributes along with relevant examples
+-------------------------------------------------------------------------------------------------------------------------------
+
+# tag
+
+1. HTML (Hypertext Markup Language) tags are used to structure and format content on web pages. 
+2. Tags are enclosed in angle brackets < > and typically come in pairs: an opening tag and a closing tag. 
+3. The opening tag defines the beginning of an element, and the closing tag defines the end of that element.
+
+EX : <p>This is a <strong>bold</strong> statement.</p>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+# Elements
+
+1. HTML (Hypertext Markup Language) elements are the building blocks of a web page's structure and content.
+2. Each element represents a different type of content, such as headings, paragraphs, images, links, and more. 
+3. Elements are defined using HTML tags enclosed in angle brackets < >.
+4.  An HTML element typically consists of 
+    1.  opening tag, 
+    2. Attributes
+    3. Attribute values
+    4. content, and 
+    5. a closing tag.
+
+EX: <h1 class = "Attribute-value"> content </h1> 
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+# Attribute 
+
+1. Attributes are additional pieces of information added to HTML elements to provide extra details or modify their behavior.
+2. Attributes are always specified in the opening tag of an element and consist of a name and a value, separated by an equal sign (=).
+
+EX : <img src="image.jpg" alt="A beautiful landscape">
+    In this example, the <img> element has two attributes:
+        src: Specifies the source (URL) of the image.
+        alt: Provides alternative text for the image, which is displayed if the image cannot be loaded.
+
+3. HTML attributes are essential for customizing and enriching web content, making it more informative, interactive, and visually appealing.

@@ -1,0 +1,10 @@
+What are global attributes? List any 5 global attributes.
+
+1. Global attributes in HTML are attributes that can be applied to almost all HTML elements, regardless of their specific purpose. 
+2. These attributes provide common properties or behaviors that can be used universally across different elements. 
+3. Here are five common global attributes:
+    1. id       : Used to uniquely identify an element on a web page
+    2. Class    : Used to assign one or more class names to an element.
+    3. Style    : The style attribute allows you to apply inline CSS styles to an element
+    4. Title    : The title attribute provides additional information about an element when the user hovers their mouse pointer over it.
+    5. Hidden   : Specifies that an element is not yet, or is no longer, relevant

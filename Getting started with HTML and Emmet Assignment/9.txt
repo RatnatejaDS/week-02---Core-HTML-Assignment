@@ -1,0 +1,26 @@
+What are self-closing tags? Write a brief note on meta tags>
+
+--------------------------------------------------------------------------------------------------------------------
+Self Closing Tags :
+    1. Self-closing tags are HTML tags that don't require a closing tag because they don't contain any content between an opening and closing tag pair. 
+    2. Instead, they self-terminate within the opening tag itself. 
+    3. These tags are also known as void elements or empty elements.
+    4. Self-closing tags are commonly used for elements like <img>, <br>, and <input>.
+
+        For example, the <img> tag is a self-closing tag that is used to display images:
+            <img src="image.jpg" alt="Description">
+
+--------------------------------------------------------------------------------------------------------------------
+Meta Tags :
+    1. Meta tags are a specific type of HTML tag that provide metadata about the HTML document. 
+    2. They are placed within the <head> section of an HTML document and do not have a closing tag. Meta tags are used to provide information such as the character encoding, authorship, description, and keywords of the document. 
+    3. One of the most common meta tags is the <meta charset> tag, which specifies the character encoding of the document:
+
+            <head>
+                <meta charset="UTF-8">
+                <!-- Other meta tags can be added here -->
+            </head>
+
+            In this example, the <meta charset="UTF-8"> tag is a self-closing meta tag that specifies the character encoding of the document as UTF-8.
+
+    4. Meta tags are essential for search engine optimization (SEO) and ensuring that the web browser and search engines interpret your webpage correctly. They provide important information about the document's content and how it should be displayed or indexed.

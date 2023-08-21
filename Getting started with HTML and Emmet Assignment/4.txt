@@ -1,0 +1,33 @@
+ # List out any 3 tags we learned in this module and give a brief explanation about the tags
+
+--------------------------------------------------------------------------------------------------------------
+
+1. <h> (Heading Tags):
+    Purpose:
+     1. Heading tags are used to define headings or titles for sections of content on a web page.
+     2. They provide a hierarchical structure to the content, with <h1> being the highest level (most important) and <h6> the lowest.
+    Example: 
+        <h1>This is a Heading 1</h1>
+
+2. <p> (Paragraph Tag):
+    Purpose: 
+     1. The <p> tag defines paragraphs of text on a web page.
+     2. It is used to separate and format text content into paragraphs, creating visual spacing between them.
+    Example: 
+        <p>This is a paragraph of text.</p>
+
+3. <strong> (Strong Tag):
+    Purpose:
+     1. The <strong> tag is used to indicate strong emphasis on text content.
+     2. Typically, browsers display text enclosed in <strong> tags as bold, highlighting its importance.
+    Example:
+        <p>This text is <strong>strongly emphasized</strong>.</p>
+
+4. <em> (Emphasis Tag):
+    Purpose: 
+    1. The <em> tag is used to indicate emphasis on text content. 
+    2. Browsers often display text enclosed in <em> tags as italicized, suggesting a change in tone or stress on the content.
+    Example: 
+        <p>This text is <em>emphasized</em>.</p>
+
+These tags play a crucial role in structuring and formatting content on web pages, making it easier to read and understand while conveying the intended meaning and hierarchy of the information.
